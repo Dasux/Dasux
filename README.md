@@ -1,13 +1,13 @@
 <!-- >
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dasux/Dasux/main/assets/study-night.png" width="80%" alt="Midnight DSP session">
+  <img src="https://raw.githubusercontent.com/Dasux/Dasux/main/banner_gh.jpeg" width="80%" alt="Midnight DSP session">
 </p>
 
 <h1 align="center">Hi, I'm Anirban</h1>
 
 <p align="center">
-  🧠 DSP | 💻 Code | ☕ Chaos <br>
-  <em>"moniti meliora sequamur" – having been advised, we follow higher things</em>
+   <br>
+  <em>i code.... ocassionally</em>
 </p>
 
 ---
