@@ -1,12 +1,12 @@
-<!-- >
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dasux/Dasux/main/banner_gh.jpeg" width="80%" alt="Midnight DSP session">
 </p>
 
-<h1 align="center">Hi, I'm Anirban</h1>
+<h1 align="center">Hi, I'm Anirban!</h1>
 
 <p align="center">
-   <br>
+   ~but you can call me yours~ <br>
   <em>i code.... ocassionally</em>
 </p>
 
@@ -14,20 +14,16 @@
 
 ### 🌌 About Me
 
-- 🧮 Currently neck-deep in Digital Signal Processing (and wondering why...)
-- 🛠️ Hobbyist of hardware, firmware, and accidental bugs
-- 🤖 Playing with ArduPilot, OrganicMaps, and a very judgmental coffee mug
-- 🧪 Tinkering with ideas and occasionally solving the universe at 3am
+- trying to solve obnoxious DSP problems in real time
+- Flirting with my sanity by ricing my Linux setup
+- Basically, I'm the guy they tell to touch grass.
+- I do math... sometimes.
 
 ---
 
 ### 🔗 Projects Worth Clicking
 
-- 📚 [`aerothon2025repo`](https://github.com/Dasux/aerothon2025repo): A TeX dump of drone design and academic intensity
-- 🚁 [`ardupilot`](https://github.com/Dasux/ardupilot): Forked from the gods of autonomous flight
-- 🧭 [`organicmaps`](https://github.com/Dasux/organicmaps): Open-source navigation for the explorers
-- ⚙️ [`CustomBuild`](https://github.com/Dasux/CustomBuild): A custom build server (because why not?)
-- 🤖 [`EduAid`](https://github.com/Dasux/EduAid): Auto-generating quiz content, AI-style
+> to be honest, none of them are worth checking out... but I will update this once I have something post-worthy
 
 ---
 
@@ -40,8 +36,8 @@
 
 ### 🛸 Currently Working On
 
-- Surviving Dr. Sumantra Chaudhuri's assignments  
-- Understanding filters... both IRL and digital  
+- [`mars-rover-ui`](https://github.com/Dasux/mars-rover-ui) A a centralized UI platform to control and display telemetry from our Mars Rover.
+-  
 - Aesthetic rice setups on Linux and breaking them accidentally
 
 ---
@@ -54,4 +50,4 @@
 ---
 
 <p align="center"><sub>Built with caffeine and curses. Not liable for existential crises caused by convolution.</sub></p>
-< -->
+
