@@ -1,4 +1,4 @@
-
+<!-- >
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dasux/Dasux/main/banner_gh.jpeg" width="80%" alt="Midnight DSP session">
 </p>
@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Anirban!</h1>
 
 <p align="center">
-   ~but you can call me yours~ <br>
+   An undergraduate majoring in electronics and comminication engineering. <br>
   <em>i code.... ocassionally</em>
 </p>
 
@@ -50,4 +50,4 @@
 ---
 
 <p align="center"><sub>Built with caffeine and curses. Not liable for existential crises caused by convolution.</sub></p>
-
+< -->
