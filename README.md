@@ -1,4 +1,4 @@
-<!-- >
+<!-- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dasux/Dasux/main/banner_gh.jpeg" width="80%" alt="Midnight DSP session">
 </p>
@@ -45,9 +45,8 @@
 ### ☕ Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirban-das-1783492b6)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anirbandas2004@gmail.com)
 
 ---
 
 <p align="center"><sub>Built with caffeine and curses. Not liable for existential crises caused by convolution.</sub></p>
-< -->
