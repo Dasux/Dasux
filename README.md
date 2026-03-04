@@ -1,6 +1,7 @@
-<!-- 
+<!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dasux/Dasux/main/banner_gh.jpeg" width="80%" alt="Midnight DSP session">
+  <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/51950d66-cfdd-44e8-87ed-4602185ca730" />
+
 </p>
 
 <h1 align="center">Hi, I'm Anirban!</h1>
@@ -12,12 +13,9 @@
 
 ---
 
-### 🌌 About Me
+### About Me
 
-- trying to solve obnoxious DSP problems in real time
-- Flirting with my sanity by ricing my Linux setup
-- Basically, I'm the guy they tell to touch grass.
-- I do math... sometimes.
+
 
 ---
 
