@@ -13,30 +13,10 @@
 
 ---
 
-### About Me
+### Projects
 
-
-
----
-
-### 🔗 Projects Worth Clicking
-
-> to be honest, none of them are worth checking out... but I will update this once I have something post-worthy
-
----
-
-### 🧠 Late-Night Musings
-
-> I also blog about... well, whatever my brain feels like at 3AM.  
-> Read at your own risk: [my blog](#) *(link coming soon?)*
-
----
-
-### 🛸 Currently Working On
-
-- [`mars-rover-ui`](https://github.com/Dasux/mars-rover-ui) A a centralized UI platform to control and display telemetry from our Mars Rover.
--  
-- Aesthetic rice setups on Linux and breaking them accidentally
+- [`mars-rover-ui`](https://github.com/Dasux/mars-rover-ui) A centralized UI platform to control and display telemetry from our Mars Rover.
+- [`pid_simulator_TVC`](https://github.com/Dasux/pid_simulator_TVC) UI platofrm to simulate and control roll and thrust vector control.
 
 ---
 
